@@ -1,0 +1,1 @@
+{"options":{"debug":false},"connection":{"random":"chat","reconnect":true},"identity":{"username":"UserName","password":"oauth:ReplaceWithYourOAuth"},"channels":["#paperbat"]}
